@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.878,B:\Delphi\HID\config.dfm=B:\Delphi\HID\Сonfig.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.727,=Z:\Delphi\Proj\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,=Z:\Delphi\Proj\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,=Z:\Delphi\HID\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.940,B:\Delphi\HID\Loading.pas=B:\Delphi\HID\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,B:\Delphi\HID\Сonfig.dfm=B:\Delphi\HID\Conf.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,Z:\Delphi\Proj\Unit1.pas=Z:\Delphi\HID\MainFormEvents.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.609,=B:\Delphi\HID\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.878,B:\Delphi\HID\config.pas=B:\Delphi\HID\Сonfig.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,B:\Delphi\HID\Management.pas=B:\Delphi\HID\Saves.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,B:\Delphi\HID\Unit2.dfm=B:\Delphi\HID\config.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.940,B:\Delphi\HID\Loading.dfm=B:\Delphi\HID\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,B:\Delphi\HID\Сonfig.pas=B:\Delphi\HID\Conf.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,Z:\Delphi\HID\Unit1.pas=Z:\Delphi\HID\Cypher.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.434,Z:\Delphi\HID\Picture.pas=Z:\Delphi\HID\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,Z:\Delphi\Proj\Project1.dproj=Z:\Delphi\HID\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.799,B:\Delphi\HID\MainFormEvents.pas=B:\Delphi\HID\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,B:\Delphi\HID\HID.dproj=B:\Delphi\HID\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.799,B:\Delphi\HID\MainFormEvents.dfm=B:\Delphi\HID\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,Z:\Delphi\Proj\Unit1.dfm=Z:\Delphi\HID\MainFormEvents.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,B:\Delphi\HID\Unit1.pas=B:\Delphi\HID\Management.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,=Z:\Delphi\HID\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.680,Z:\Delphi\HID\Unit1.pas=Z:\Delphi\HID\Rand.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.394,=Z:\Delphi\HID\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,=B:\Delphi\HID\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,B:\Delphi\HID\Unit2.pas=B:\Delphi\HID\config.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,=B:\Delphi\HID\Unit2.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+    <File Path="Cypher.pas"/>
+    <File Path="Rand.pas"/>
+    <File Path="Picture.pas"/>
+    <File Path="Saves.pas"/>
+    <File Path="Conf.pas"/>
+    <File Path="Conf.dfm"/>
+    <File Path="Loading.pas"/>
+    <File Path="Loading.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
