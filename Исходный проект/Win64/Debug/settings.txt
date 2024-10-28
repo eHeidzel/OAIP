@@ -1,0 +1,7 @@
+ru
+B:\Delphi\HID\Гейдель\Проект\Win64\Debug\ex\key.png
+creator
+cn
+B:\Delphi\HID\Гейдель\Проект\Win64\Debug\ex\source.png
+pic
+B:\Delphi\HID\Гейдель\Проект\Win64\Debug\ex\test.txt
